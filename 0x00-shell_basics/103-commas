@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -la -m --classify -s 
+ls -la -m --classify
