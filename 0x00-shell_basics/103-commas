@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -m --classify
+ls -map|sort -d
